@@ -1,2 +1,3 @@
 # firstproject
- this is my frist git repository
+ this is my frist git repository.
+ it's me.
